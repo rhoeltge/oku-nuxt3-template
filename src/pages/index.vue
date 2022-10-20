@@ -1,3 +1,3 @@
 <template>
-  <Starter />
+  <div>dasdadas</div>
 </template>
